@@ -52,7 +52,7 @@ Customer-Churn-Analysis/
 ## Methodology
 
 ### 1. SQL Analysis Layer
-Loaded data into SQLite and ran 5 business-focused queries to slice KPIs before any Python work — churn by contract type, tenure band, payment method, and average charges.
+Loaded data into SQLite and ran 5 business-focused queries to slice KPIs before any Python work churn by contract type, tenure band, payment method, and average charges.
 
 ### 2. Exploratory Data Analysis
 7 visualizations answering specific business questions: churn distribution, contract type breakdown, tenure patterns, monthly charges comparison, payment method impact, internet service type, and feature correlations.
@@ -132,12 +132,12 @@ Trained a logistic regression model on 19 features to predict individual churn p
 ### Decision: Focus retention budget on 3 high-impact actions
 
 **Recommendation 1 — Contract upgrade campaign**
-Month-to-month customers churn at 42.71% vs 2.83% on 2-year contracts — a 15x difference.
+Month-to-month customers churn at 42.71% vs 2.83% on 2-year contracts a 15x difference.
 Offer a 20% discount to month-to-month customers with 6–12 months tenure to upgrade to a 1-year contract.
-Potential impact: Converting 10% of at-risk month-to-month customers retains ~147 customers (~$130K annual revenue).
+Potential impact: Converting 10% of at-risk month-to-month customers retains 147 customers ($130K annual revenue).
 
 **Recommendation 2 — 90-day onboarding program**
-47.44% of customers churn in their first year. Trigger proactive outreach at Day 30, Day 60, and Day 90 for all new customers — especially fiber optic subscribers (41.9% churn).
+47.44% of customers churn in their first year. Trigger proactive outreach at Day 30, Day 60, and Day 90 for all new customers especially fiber optic subscribers (41.9% churn).
 
 **Recommendation 3 — Auto-pay conversion incentive**
 Electronic check users churn at 45.29% vs 15–17% for auto-pay users.
