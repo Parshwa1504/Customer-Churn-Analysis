@@ -3,8 +3,6 @@
 
 ---
 
-[![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-blue)](https://public.tableau.com/views/CustomerChurnAnalysis_17757053543780/Dashboard1)
-
 ## Live Dashboard
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/CustomerChurnAnalysis_17757053543780/Dashboard1#1)
 
