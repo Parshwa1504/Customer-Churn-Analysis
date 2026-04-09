@@ -3,6 +3,12 @@
 
 ---
 
+[![Tableau](https://img.shields.io/badge/Tableau-Live%20Dashboard-blue)](https://public.tableau.com/views/CustomerChurnAnalysis_17757053543780/Dashboard1)
+
+## Live Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/CustomerChurnAnalysis_17757053543780/Dashboard1#1)
+
+---
 ## Business Problem
 
 A telecom company is losing 26.54% of its customers annually. The business needs to understand:
