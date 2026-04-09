@@ -162,7 +162,6 @@ Month-to-month contract + tenure ≤ 14 months + monthly charges > $83 + electro
 | scikit-learn | Logistic regression, train/test split, evaluation |
 | matplotlib / seaborn | All 7 visualizations |
 | Jupyter Notebook | Analysis environment |
-| GitHub | Version control and portfolio hosting |
 
 ---
 
